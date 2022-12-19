@@ -50,19 +50,13 @@ tnseq_cnc/tiny_insert_counter.py
 
 tnseq_cnc/Make_Insert_Heatmap.py
 
-#DESeq2 code using the expected (Exp) expression values
+#Calculate R-squared linear regression and significant residual outliers 
 
-rnaseq_cnc/DESeq_difExp_v1.0.R
+tnseq_cnc/Make_Insert_R-squared.r
 
-#Calculate rates of significant gene expression differences in the Obs and Exp groups
+#Identify CNV-associated genes that are significantly higher in all the strains they are amplified in.
 
-rnaseq_cnc/Calculate_rates_Obs_and_Exp.py
-
-#Make figure 4 subfigures:
-
-rnaseq_cnc/Make_Fig4.py
-rnaseq_cnc/Make_Fig4v2_DESeq.py
-rnaseq_cnc/Make_Fig4C.py
+tnseq_cnc/Make_Supplemental_Fig2C_threshold.py
 
 ```
 
@@ -90,6 +84,10 @@ rnaseq_cnc/Calculate_rates_Obs_and_Exp.py
 rnaseq_cnc/Make_Fig4.py
 rnaseq_cnc/Make_Fig4v2_DESeq.py
 rnaseq_cnc/Make_Fig4C.py
+
+#Calculate if CNV associated genes have a higher RNA abundance than their non-CNV ancestors (tpm normalized). Mann-Whitney U test for Log2FoldChange of gene expression.
+
+rnaseq_cnc/Make_Sup_Compare_CNV_to_Non.py
 
 ```
 
