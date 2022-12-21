@@ -1,2 +1,2 @@
 # CNV_essentiality
-temp repository in preparation of publication (Grace et al. 2022)
+Temporary repository in preparation of publication *Copy number variants alter local and global mutational tolerance* (Avecilla et al. 2022)
