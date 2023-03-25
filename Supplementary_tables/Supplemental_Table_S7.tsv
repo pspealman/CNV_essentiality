@@ -1,0 +1,69 @@
+GLC7-YER137C			
+YNCE0021C	tH(GUG)E2|tRNA-His|tRNA-His		
+YNCE0025C	tI(AAU)E1|tRNA-Ile|tRNA-Ile		
+YNCE0022C	tK(CUU)E2|tRNA-Lys|tRNA-Lys		
+YNCE0023W	tV(AAC)E1|tRNA-Val|tRNA-Val		
+YNCE0024W			
+FET_statistic	p-value		
+6.470824453	0.001845805		
+Filter tRNA			
+FET_statistic	p-value		
+YNCE0024W			
+3.594902474	0.262444387	 	
+			
+ComQuad			
+YNCK0019W	tA(AGC)K2|tRNA-Ala|tRNA-Ala		
+YNCK0018C	tD(GUC)K|tRNA-Asp|tRNA-Asp		
+FET_statistic	p-value		
+3.508263239	0.123830696		
+			
+Trip1			
+YNCK0019W	tA(AGC)K2|tRNA-Ala|tRNA-Ala		
+YNCK0018C	tD(GUC)K|tRNA-Asp|tRNA-Asp		
+YNCK0016W	tL(CAA)K|tRNA-Leu|tRNA-Leu		
+YNCK0017W	tR(ACG)K|tRNA-Arg|tRNA-Arg		
+FET_statistic	p-value		
+(2.927199892487861	0.06620050375032022)		
+			
+ComSup			
+YNCK0015C	snR87		
+YNCK0018C	tD(GUC)K|tRNA-Asp|tRNA-Asp		
+YNCK0016W	tL(CAA)K|tRNA-Leu|tRNA-Leu		
+YNCK0017W	tR(ACG)K|tRNA-Arg|tRNA-Arg		
+FET_statistic	p-value		
+2.144416036	0.147507098		
+YNCK0015C	snR87		
+FET_statistic	p-value		
+2.278442038	0.405812521		
+			
+Trip2			
+YNCK0020C	snR42		
+YNCK0019W	tA(AGC)K2|tRNA-Ala|tRNA-Ala		
+YNCK0018C	tD(GUC)K|tRNA-Asp|tRNA-Asp		
+YNCK0021W	tK(UUU)K|tRNA-Lys|tRNA-Lys		
+YNCK0017W	tR(ACG)K|tRNA-Arg|tRNA-Arg		
+FET_statistic	p-value		
+2.112839645	0.179253122		
+YNCK0020C	snR42		
+FET_statistic	p-value		
+1.690271716	0.498271675		
+			
+Sup			
+YNCK0016W	tL(CAA)K|tRNA-Leu|tRNA-Leu		
+YNCK0017W	tR(ACG)K|tRNA-Arg|tRNA-Arg		
+FET_statistic	p-value		
+1.646988286	0.362340325		
+FET_statistic	p-value		
+0	1		
+			
+ComTrip			
+YNCK0020C	snR42		
+YNCK0019W	tA(AGC)K2|tRNA-Ala|tRNA-Ala		
+YNCK0018C	tD(GUC)K|tRNA-Asp|tRNA-Asp		
+YNCK0021W	tK(UUU)K|tRNA-Lys|tRNA-Lys		
+YNCK0017W	tR(ACG)K|tRNA-Arg|tRNA-Arg		
+FET_statistic	p-value		
+2.630090023	0.064652362		
+YNCK0020C	snR42		
+FET_statistic	p-value		
+2.104072018	0.429569281		
